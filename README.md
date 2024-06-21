@@ -1,2 +1,3 @@
-# amiipay
-a iOS wallet amiibo
+# vmiibo 
+a iOS wallet amiibo! 
+Progress - 0%
